@@ -80,3 +80,12 @@ Based on the data analysis, the following business actions are recommended:
 
 * **Data Sources:** Uber India Rides from kaggle.
 * **Tools Used:** Excel.
+
+---
+
+## Project Gallery
+
+![Summary](./images/1.png)
+![Vehicles](./images/2.png)
+![Cancelled](./images/3.png)
+![Revenue](./images/4.png)
